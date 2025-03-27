@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, here you can read my profile!
 
 <!--
 **ColinH-98/ColinH-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
