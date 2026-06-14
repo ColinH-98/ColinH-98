@@ -1,12 +1,11 @@
 ## Hi there, here you can read my profile! 😁
-<!--
-**ColinH-98/ColinH-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on advancing my engineering skills so I can work in High Performance Engineering throughout the motorsport, aviation or marine industry.
-- 💡My enginneering profile can be accessed via this link - (https://www.canva.com/design/DAGTFIaoI2s/-TzO45KmPCnmUNDSR_kM4A/edit?utm_content=DAGTFIaoI2s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- 🌱 I’m currently learning Python 
+- 🔭 I’m currently working on advancing my engineering skills so I can work in Engineering throughout the motorsport, aviation or marine industry.
+- 💡My enginneering profile can be accessed via this link - https://zircon-sign-aaa.notion.site/Colin-Hart-30019fa6864c80eb9abde2c1e2980b7e?source=copy_link
+- 🌱 I’m currently learning Python and on the vibecode train! Building and exploring with Claude Code.
+- Built a python pitstop tool, currently creating an AI assistant/agent which will help you build your fantasy GAA team for Score Beo's fantasy Gaa game.
 - 📫 How to reach me: Best to use hartcwork@gmail.com
 
 -->
